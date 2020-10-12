@@ -1,10 +1,10 @@
 body{
-    background:turquoise;
+    background:#0A3200;
     font-family:'Courier New', Courier, monospace;
 }
 
 .assignment{
-    background:paleturquoise;
+    background:#379634;
     display:flex;
     margin:10px;
     padding:10px;
@@ -12,16 +12,21 @@ body{
 
 .assignment img{
     width:200px;
-    padding:10px;
-    background:paleturquoise;
+    background:#379634;
+    border: 2px solid #BFFFF1;
+    margin-right: 20px;
 }
 
 h1{
-    color: orange;
+    color:#74F2CE;
     text-align:center;
 }
 
 h2{
-    color: orchid;
+    color:#7CFFCB;
 
+}
+
+a{
+text-decoration:none; 
 }
